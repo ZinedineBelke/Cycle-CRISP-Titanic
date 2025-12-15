@@ -1,7 +1,22 @@
 # Cycle-CRISP-Titanic
-Ce notebook présente l'ensemble du cycle CRISP en l'applicant sur le jeu de données du Titanic. 
-CRISP-DM, qui signifie Cross-Industry Standard Process for Data Mining, est une méthode mise à l'épreuve sur le terrain permettant d'orienter les différents travaux d'exploration de données.
-En tant que méthodologie, CRISP-DM comprend des descriptions des phases typiques d'un projet et des tâches comprises dans chaque phase, et une explication des relations entre ces tâches.
-En tant que modèle de processus, CRISP-DM offre un aperçu du cycle de vie de l'exploration de données.
+Ce notebook présente une application complète et structurée de la méthodologie CRISP-DM (Cross-Industry Standard Process for Data Mining) à travers l’analyse du jeu de données Titanic, un cas d’étude classique en data science.
 
-Le modèle de cycle de vie comporte six phases dotées de flèches indiquant les dépendances les plus importantes et les plus fréquentes entre les phases. La séquence des phases n'est pas strictement établie. De fait, les projets, pour la plupart, passent d'une phase à l'autre en fonction des besoins. 
+CRISP-DM est une méthodologie de référence, largement adoptée dans les projets d’exploration et d’analyse de données. Elle propose un cadre méthodologique robuste permettant de piloter un projet data de bout en bout, depuis la compréhension du contexte métier et la définition des objectifs, jusqu’à la modélisation, l’évaluation des résultats et leur interprétation.
+
+La méthodologie s’articule autour de six phases clés :
+
+Compréhension du métier
+
+Compréhension des données
+
+Préparation des données
+
+Modélisation
+
+Évaluation
+
+Déploiement
+
+Ces phases sont représentées sous forme d’un cycle de vie itératif. Bien qu’elles soient présentées de manière séquentielle, leur enchaînement n’est pas strictement linéaire : selon les résultats intermédiaires et les contraintes du projet, des allers-retours entre les différentes étapes peuvent être nécessaires afin d’affiner les analyses et les modèles.
+
+L’objectif de ce projet est de démontrer une mise en œuvre concrète de la méthodologie CRISP-DM dans un contexte réel d’analyse de données, en mettant en évidence les choix méthodologiques, les étapes clés du traitement des données et les enseignements tirés des résultats obtenus.
